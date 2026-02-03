@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science student based in Toronto, currently studying at **McMaster University**. II specialize in building high-performance applications, leveraging machine learning, and creating scalable full-stack solutions.
+I'm a passionate Computer Science student based in Toronto, currently studying at **McMaster University**. I specialize in building high-performance applications, leveraging machine learning, and creating scalable full-stack solutions.
 - 🔭 Currently working on expanding my project portfolio
 - 🌱 Focused on Full-Stack Development, Machine Learning, NLP, and System Design
 - 💡 Interested in Full-Stack Development, Software Engineering, and Problem-Solving
