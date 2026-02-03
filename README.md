@@ -79,14 +79,6 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/haaaarsh4/count.svg)
-
----
-
 **⭐ From [haaaarsh4](https://github.com/haaaarsh4) | Building the future, one commit at a time 🚀**
 
 </div>
