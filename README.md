@@ -78,7 +78,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 ### 💭 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+---
 **⭐ From [haaaarsh4](https://github.com/haaaarsh4) | Building the future, one commit at a time 🚀**
 
 </div>
