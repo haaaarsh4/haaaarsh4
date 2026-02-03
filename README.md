@@ -86,7 +86,6 @@ I'm always open to interesting conversations, collaboration opportunities, and i
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2E9EF7?style=for-the-badge)](https://harshupadhyay.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-upadhyay--/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upadhh1@mcmaster.ca)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github)](https://github.com/haaaarsh4)
 
 </div>
 
