@@ -17,14 +17,12 @@
 
 ## 🚀 About Me
 
-Currently a Computer Science Co-op student at **McMaster University** with hands-on experience as a **Business Analyst Co-op** at the Government of Ontario and former **Frontend Developer** at Sciencious (UAE). I specialize in building high-performance applications, leveraging machine learning, and creating scalable full-stack solutions.
-
-- 🔭 Working as a **Business Analyst Co-op** at Government of Ontario (May 2025 - Dec 2025)
-- 💼 Previously **Frontend Developer** at Sciencious, UAE (Apr 2022 - Aug 2022)
-- 🎓 **President's Entrance Scholarship** recipient (\$5,000) for 96%+ high school average
+I'm a passionate Computer Science student based in Toronto, currently studying at **McMaster University**. II specialize in building high-performance applications, leveraging machine learning, and creating scalable full-stack solutions.
+- 🔭 Currently working on expanding my project portfolio
 - 🌱 Focused on Full-Stack Development, Machine Learning, NLP, and System Design
+- 💡 Interested in Full-Stack Development, Software Engineering, and Problem-Solving
 - 📍 Based in Toronto, Ontario
-- 🎯 Building impactful, production-ready applications with real-world impact
+- 🎯 2026 Goals: Contribute to more open-source projects and building production-ready applications with real-world impact
 
 ---
 
