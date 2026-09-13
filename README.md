@@ -3,6 +3,13 @@
 <table>
 <tr>
 <td valign="top"><img src="./panel-whoami.svg" width="460" alt="Harsh Upadhyay — terminal intro" /></td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
 <td valign="top"><img src="./panel-neofetch.svg" width="609" alt="Harsh Upadhyay — neofetch style stack" /></td>
 </tr>
 </table>
@@ -26,8 +33,8 @@
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/haaaarsh4?label=Followers&style=for-the-badge&logo=github&color=F0883E&labelColor=0d1117)](https://github.com/haaaarsh4?tab=followers)
-[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/haaaarsh4?tab=achievements)
-[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/haaaarsh4?tab=achievements)
+[![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-8957e5?style=for-the-badge&labelColor=0d1117)](https://github.com/haaaarsh4?tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-F0883E?style=for-the-badge&labelColor=0d1117)](https://github.com/haaaarsh4?tab=achievements)
 
 <br>
 
