@@ -1,32 +1,34 @@
 <div align="center">
 
+<img src="./banner.svg" width="880" alt="Harsh Upadhyay" />
+
+<img src="./divider-terminal.svg" width="880" alt="Terminal" />
+
 <table>
 <tr>
-<td valign="top"><img src="./panel-whoami.svg" width="350" alt="Harsh Upadhyay — terminal intro" /></td>
-<td valign="top"><img src="./panel-neofetch.svg" width="440" alt="Harsh Upadhyay — neofetch style stack" /></td>
+<td valign="top"><img src="./panel-whoami.svg" width="344" alt="whoami" /></td>
+<td valign="top"><img src="./panel-neofetch.svg" width="520" alt="neofetch" /></td>
 </tr>
 </table>
 
+<img src="./divider-activity.svg" width="880" alt="GitHub Activity" />
+
+<img src="./panel-contributions.svg" width="880" alt="GitHub contribution activity" />
+
+<img src="./divider-quote.svg" width="880" alt="Words to live by" />
+
+<img src="./quote.svg" width="880" alt="Quote" />
+
+<img src="./divider-connect.svg" width="880" alt="Let's connect" />
+
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C9D1D9&center=true&vCenter=true&width=760&size=22&lines=Computer+Science+Co-op+Student;Full-Stack+Developer;Machine+Learning+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=F0883E)](https://harshupadhyay.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0883E)](https://www.linkedin.com/in/harsh-upadhyay--/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0883E)](https://www.instagram.com/hhxrsh_/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0883E)](mailto:upadhh1@mcmaster.ca)
 
 <br>
-<br>
-
-<img src="./panel-contributions.svg" width="700" alt="Harsh Upadhyay — GitHub contribution activity" />
-
-<br>
-<br>
-
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
-
----
-
-<sub>[Portfolio](https://harshupadhyay.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/harsh-upadhyay--/) · [Instagram](https://www.instagram.com/hhxrsh_/) · [Email](mailto:upadhh1@mcmaster.ca)</sub>
-
-**⭐ From [haaaarsh4](https://github.com/haaaarsh4) | Building scalable solutions, one commit at a time 🚀**
+<sub>⭐ From <a href="https://github.com/haaaarsh4">haaaarsh4</a> — building scalable solutions, one commit at a time 🚀</sub>
 
 </div>
