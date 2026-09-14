@@ -2,15 +2,18 @@
 
 <img src="./banner.svg" width="800" alt="Harsh Upadhyay" />
 
+<br>
 <img src="./divider-terminal.svg" width="800" alt="Terminal" />
 
 <img src="./panel-whoami.svg" width="387" alt="whoami" valign="top" />
 <img src="./panel-neofetch.svg" width="396" alt="neofetch" valign="top" />
 
+<br>
 <img src="./divider-activity.svg" width="800" alt="GitHub Activity" />
 
 <img src="./panel-contributions.svg" width="800" alt="GitHub contribution activity" />
 
+<br>
 <img src="./divider-connect.svg" width="800" alt="Let's connect" />
 
 <a href="https://harshupadhyay.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=F0883E" /></a>
