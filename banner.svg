@@ -1,17 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
-  <defs>
-    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#30363D" opacity="0.3"/>
-    </pattern>
-  </defs>
   <rect width="800" height="200" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
-  <rect width="800" height="200" rx="12" fill="url(#grid)"/>
-  
-  <!-- Decorative Terminal Symbols -->
   <text x="60" y="115" font-family="monospace" font-size="50" fill="#161B22" font-weight="bold">&lt;</text>
   <text x="710" y="115" font-family="monospace" font-size="50" fill="#161B22" font-weight="bold">/&gt;</text>
-
-  <!-- Main Content -->
   <text x="400" y="80" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="38" font-weight="800" fill="#FFFFFF" letter-spacing="4">HARSH UPADHYAY</text>
   <line x1="320" y1="100" x2="480" y2="100" stroke="#F0883E" stroke-width="2" stroke-linecap="round"/>
   <text x="400" y="130" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#F0883E">Full-Stack Developer · Machine Learning Engineer</text>
